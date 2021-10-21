@@ -25,3 +25,4 @@ fields:
   label: feature_image
 pages:
 - content/post/hello-mate.md
+- content/post/post-from-another-user.md
